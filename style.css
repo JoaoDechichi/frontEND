@@ -1,0 +1,42 @@
+@import url('https://fonts.googleapis.com/css2?family=Poppins&display=swap');
+
+h1{
+    text-align: center;
+    background-color: #576CBC;
+    padding: 28px 0;
+    font-size: 56px;
+
+}
+
+h1, h2, h3 {
+    font-family: 'Poppins', sans-serif;
+}
+
+.card {
+    display: flex;
+    gap: 15px;
+    flex-direction: row-reverse;
+}
+
+.flex {
+    display: flex;
+    justify-content: center;
+}
+
+.pesoIdeal {
+    width: 70%;
+    margin: 0 auto;
+}
+
+.card__texto {
+   display: flex;
+   flex-direction: column;
+}
+
+.card__texto p {
+    margin-top: 30%;
+}
+
+.teste {
+    margin-bottom: 30px;
+}
