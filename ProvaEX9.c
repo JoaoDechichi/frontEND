@@ -8,7 +8,7 @@ int main() {
     int opcao, quantidade;
     float total = 0.0;
     int carrinho[3] = {0};
-
+ 
     printf("*** BEM-VINDO(A) À FEIRA DE FRUTAS ***\n\n");
 
     // Loop principal do programa

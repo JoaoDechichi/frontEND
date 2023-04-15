@@ -2,7 +2,7 @@
 #include <stdlib.h>
 
 float raio, area, volume;
-const double pi = 3.14159; 
+const double pi = 3.14159;
 
 
 int main(){

@@ -2,7 +2,7 @@
 
 int main() {
     float x, y;
-
+ 
     printf("Insira o valor das variaveis no pao cartesiano respectivamente x e y: \n");
     scanf("%f %f", &x, &y);
 

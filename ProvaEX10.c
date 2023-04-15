@@ -10,7 +10,7 @@ int main() {
         scanf("%d", &Num[i]);
         soma += Num[i];
     }
-
+ 
     float media = (float) soma / 10;
 
     printf("A média dos números digitados é %.2f.\n", media);

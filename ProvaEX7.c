@@ -5,7 +5,7 @@ int num, i;
 int PrimeiroNum = 0, SegundoNum = 1, Enesimo;
 
 int main() {
-
+ 
 
     printf("Digite o valor de n: ");
     scanf("%d", &num);

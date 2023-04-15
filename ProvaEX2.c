@@ -2,7 +2,7 @@
 #include <stdlib.h>
 #include <math.h>
 
-
+ 
 float x1, x2, yy1, y2, dist;
 
 int main(){

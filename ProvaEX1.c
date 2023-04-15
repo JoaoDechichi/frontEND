@@ -15,7 +15,7 @@ int main(){
     result=((a*b)-(c*d));
 
     printf("DIFERENCA = (%.2f * %.2f) - (%.2f * %.2f)\n", a, b, c, d);
-    printf("DIFERENCA = (%.2f)", result);
+    printf("DIFERENCA = (%.2f)", result); 
 
 
 

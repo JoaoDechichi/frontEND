@@ -6,7 +6,7 @@ int Num, maior, menor;
 int main(){
     printf("Digite um numero positivo: \n");
     scanf("%d", Num);
-
+ 
     Num=maior=menor;
 
     while (Num>=0)
