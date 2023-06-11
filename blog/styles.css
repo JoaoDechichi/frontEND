@@ -1,0 +1,152 @@
+@import url('https://fonts.googleapis.com/css2?family=Roboto:ital,wght@1,400;1,700&display=swap');
+
+body{
+    font-family: 'Roboto', sans-serif;
+    background-color: #1C1C1C;
+    margin-right: 20px;
+    margin-right: 20px;
+    margin-top: 0;
+}
+p {
+    color: white;
+}
+h1, h2, h3 {
+    font-family: 'Roboto', sans-serif;
+    font-weight: bold;
+    color: white;
+}
+
+h2 {
+  display: flex;
+  justify-content: center;
+  margin-top: 80px;
+  margin-bottom: 40px;
+}
+
+header{
+    background-color: #32CD32;
+}
+
+ #head li{
+    display: inline;  
+}
+ #head{
+    position: sticky;
+    top: 0;
+
+ }
+
+ #head ul{
+    margin: 0;
+    padding: 0;
+    display: flex;
+    justify-content: space-around;
+ }
+
+ .color {
+    display: block;
+    background-color: #fff;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+    transition: background-color 0.3s ease;
+    cursor: pointer;
+
+ }
+ 
+ #head a{
+    display: block;
+    color: white;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+    transition: background-color 0.3s ease;
+  }
+  
+
+  #head a:hover{
+    background-color:#228B22;
+  }
+
+  nav{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+
+  }
+
+  .img1{
+    width: 600px;
+  }
+
+  #segurança{
+    color: #fff;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+  }
+
+  #bigT{
+    color: #fff;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+  }
+
+  #cust{
+    color: #fff;
+    display: flex;
+    justify-content: center;
+    align-items: center; 
+    text-align: center;
+  }
+
+  #espt {
+    color: #fff;
+    display: flex;
+    justify-content: center;
+    align-items: center; 
+    text-align: center;
+  }
+
+  #nak{
+    color: #fff;
+    display: flex;
+    justify-content: center;
+    align-items: center; 
+    text-align: center;
+  }
+
+  #scot{
+    color: #fff;
+    display: flex;
+    justify-content: center;
+    align-items: center; 
+    text-align: center;
+  }
+
+  #ofr {
+    color: #fff;
+    display: flex;
+    justify-content: center;
+    align-items: center; 
+    text-align: center; 
+  }
+
+  #str {
+    color: #fff;
+    display: flex;
+    justify-content: center;
+    align-items: center; 
+    text-align: center; 
+  }
+
+  #tur{
+    color: #fff;
+    display: flex;
+    justify-content: center;
+    align-items: center; 
+    text-align: center;
+  }
