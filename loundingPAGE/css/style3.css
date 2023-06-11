@@ -1,0 +1,51 @@
+body{
+  background-color: #FFD700;
+}
+header {
+  background-color: #222;
+  color: white;
+  padding: 20px;
+}
+
+h1 {
+  margin: 0;
+  font-size: 40px;
+}
+
+.text {
+  margin: 20px;
+}
+
+p {
+  line-height: 1.5;
+}
+
+.img {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+  margin: 50px auto;
+  width: 80%;
+  max-width: 800px;
+}
+
+.img img {
+  margin: 5px;
+  max-width: 200px;
+  max-height: 200px;
+}
+
+
+
+.btn {
+  display: block;
+  margin: 20px auto;
+  background-color: #222;
+  color: white;
+  padding: 10px 20px;
+  border: none;
+  border-radius: 4px;
+  cursor: pointer;
+}
+
+
