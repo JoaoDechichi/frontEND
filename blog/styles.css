@@ -43,16 +43,12 @@ header{
     justify-content: space-around;
  }
 
- .color {
-    display: block;
-    background-color: #fff;
-    text-align: center;
-    padding: 14px 16px;
-    text-decoration: none;
-    transition: background-color 0.3s ease;
-    cursor: pointer;
+  
+  
 
- }
+ #head a:hover{
+  background-color:#228B22;
+}
  
  #head a{
     display: block;
@@ -62,11 +58,18 @@ header{
     text-decoration: none;
     transition: background-color 0.3s ease;
   }
-  
 
-  #head a:hover{
-    background-color:#228B22;
-  }
+  .color {
+    display: block;
+    background-color: #fff;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+    transition: background-color 0.3s ease;
+    cursor: pointer;
+
+ }
+
 
   nav{
     display: flex;
